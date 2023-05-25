@@ -1,11 +1,18 @@
-title: John Doe # your name (or website title) here
-logo: "/images/profile.png?raw=true" # your photo (or logo) here
+title: Richárd Pávay # your name (or website title) here
+logo: "/images/cirle_photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Analyst 
   <br><br>
-  Second description 
+  Certified data analyst skilled in collecting, managing
+and analyzing raw data, so it can be turned into
+actionable insight, with a background in military
+intelligence and lifelong passion of bridging the gap
+between data, information and decision.
+
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Contacts
+  <a href="https://www.linkedin.com/in/rich%C3%A1rd-p%C3%A1vay-378664260/">LinkedIn</a>
+  <a href="https://github.com/richardpavay">GitHub</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
