@@ -8,10 +8,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   actionable insight, with a background in military
   intelligence and lifelong passion of bridging the gap
   between data, information and decision.
-
   <br><br>
   Contacts
+  <br><br>
   <a href="https://www.linkedin.com/in/rich%C3%A1rd-p%C3%A1vay-378664260/">LinkedIn</a>
+  <br><br>
   <a href="https://github.com/richardpavay">GitHub</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
