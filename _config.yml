@@ -8,10 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   intelligence and lifelong passion of bridging the gap
   between data, information and decision.
   <br><br>
-  Contacts
-  <p>
-    <div><a href="https://www.linkedin.com/in/rich%C3%A1rd-p%C3%A1vay-378664260/">LinkedIn</a></div>
-    <dic><a href="https://github.com/richardpavay">GitHub</a></div></p>
+  <b>Contacts</b>
+  <div><a href="https://www.linkedin.com/in/rich%C3%A1rd-p%C3%A1vay-378664260/">LinkedIn</a></div>
+  <dic><a href="https://github.com/richardpavay">GitHub</a></div>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
