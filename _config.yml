@@ -7,7 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>Contacts</b>
   <div><a href="https://www.linkedin.com/in/rich%C3%A1rd-p%C3%A1vay-378664260/">LinkedIn</a></div>
-  <dic><a href="https://github.com/richardpavay">GitHub</a></div>
+  <div><a href="https://github.com/richardpavay">GitHub</a></div>
+  <div><a href="https://public.tableau.com/app/profile/p.vay.rich.rd">Tableau Public</a></div>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
