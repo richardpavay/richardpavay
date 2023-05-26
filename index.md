@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis in Python
 
-[Project 1 Title](/sample_page)
+[DataCo Supply Chain Analysis](/https://github.com/richardpavay/DataCo-Supply-Chain-Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
