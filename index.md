@@ -4,7 +4,7 @@
 
 ### Data Analysis in Python
 
-[DataCo Supply Chain Analysis](/https://github.com/richardpavay/DataCo-Supply-Chain-Analysis)
+[DataCo Supply Chain Analysis](https://github.com/richardpavay/DataCo-Supply-Chain-Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
