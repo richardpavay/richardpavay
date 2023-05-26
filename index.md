@@ -3,10 +3,12 @@
 ---
 
 ### Data Analysis in Python
-
+<div>
 [DataCo Supply Chain Analysis](https://github.com/richardpavay/DataCo-Supply-Chain-Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+</div>
+<div>
+<img src="images/supply_chain_logo.jpg?raw=true"/>
+</div>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
