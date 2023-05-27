@@ -11,7 +11,8 @@
 </div>
 ---
 [Instacart Basket Analysis](https://github.com/richardpavay/Instacart_Analysis)
-<img src="images/instacart thumbnail.jpg?raw=true"/>
+<div></div>
+<img src="images/instacart logo.png?raw=true"/>
 <div>Analyzing Instacart order and customer data, using core data analysis libraries, with a focus on classification and customer segmentation. <i>(classification, pandas, data wrangling, data cleaning, visualization libraries)</i></div>
 
 ---
