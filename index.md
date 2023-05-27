@@ -15,6 +15,12 @@
 <img src="images/instacart logo.png?raw=true"/>
 
 ---
+### Databases & SQL
+
+[ETL & ELT Architecturing](https://github.com/richardpavay/ETL_project)
+<div>Engineering and setting up a local, end-to-end ETL process, by extracting cryptocurrency and stock-pricing data from API-s, Loading them to a staging area in the form of a MYSQL database, then transforming them, to be eventually inserted to a data warehouse in PostgreSQL with a basic snowflake schema, which can then be connected to by our BI Tool of choice.</div>
+<img src="images/etl-process-explained-diagram.png?raw=true"/>
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
