@@ -21,7 +21,7 @@
 <div>Engineering and setting up a local, end-to-end ETL process, by extracting cryptocurrency and stock-pricing data from API-s, Loading them to a staging area in the form of a MYSQL database, then transforming them, to be eventually inserted to a data warehouse in PostgreSQL with a basic snowflake schema, which can then be connected to by our BI Tool of choice. <i>Data collection from APIs, ETL architecturing, SQL in Python, database design</i></div>
 <img src="images/etl_logo.png?raw=true"/>
 
-[Data Analysis with SQL]([http://example.com/](https://github.com/richardpavay/Rockbuster_SQL_project))
+[Data Analysis with SQL]((https://github.com/richardpavay/Rockbuster_SQL_project))
 <div>Analyzing moovie rental data stored in a relational database, through queries in PostgreSQL. <i>SQL queries, subqueries, common table expressions (CTE)</i></div>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
