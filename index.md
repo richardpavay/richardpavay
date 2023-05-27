@@ -39,6 +39,7 @@
 
 <b>[Video Game sales Analysis](https://github.com/richardpavay/GameCo-sales-analysis)</b>
 <div>Analyzing historical video game sales to identify regional trends, purely in MS Excel. <i>(Pivot tables, Excel visualizations, lookups,)</i></div>
+<img src="images/gaming logo.jpg?raw=true"/>
 ---
 
 
