@@ -11,6 +11,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <div><a href="https://public.tableau.com/app/profile/p.vay.rich.rd">Tableau Public</a></div>
   
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-theme-minimal
+plugins: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
