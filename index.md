@@ -32,7 +32,7 @@
 <b>[Preparing for Influenza Season](https://github.com/richardpavay/ETL_project)</b>
 <div>
   Analyzing US Influenza Death Rate, and Census data in MS Excel, to identify more vulnerable states and seasonality, and to help allocate medical staff in preparation to the upcoming influenza season. <i>(Dashboard design, Pivot tables, lookups)</i>
-<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/FinalProjectStory_16788979106880/Fluprojectstoryboard" target="blank"><img src="images/DataCo Montage.bmp?raw=true"/></a>
+<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/FinalProjectStory_16788979106880/Fluprojectstoryboard" target="blank"><img src="images/Flu Montage.bmp?raw=true"/></a>
 
 </div>
 
