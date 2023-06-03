@@ -7,7 +7,7 @@
 <b>[DataCo Supply Chain Analysis](https://github.com/richardpavay/DataCo-Supply-Chain-Analysis)</b>
 <div>
   Analyzing supply chain and website traffic data for better business understanding. <i>(regression, forecasting, clustering, website traffic, geospatial analysis, intractive dashboard design)</i>
-<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/DataCoSupplychainAnalysisstory/Finalprojectstory"><img src="images/DataCo Montage.bmp?raw=true"/></a>
+<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/DataCoSupplychainAnalysisstory/Finalprojectstory" target="blank"><img src="images/DataCo Montage.bmp?raw=true"/></a>
 </div>
 ---
 <b>[Instacart Basket Analysis](https://github.com/richardpavay/Instacart_Analysis)</b>
@@ -32,7 +32,7 @@
 <b>[Preparing for Influenza Season](https://github.com/richardpavay/ETL_project)</b>
 <div>
   Analyzing US Influenza Death Rate, and Census data in MS Excel, to identify more vulnerable states and seasonality, and to help allocate medical staff in preparation to the upcoming influenza season. <i>(Dashboard design, Pivot tables, lookups)</i>
-<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/DataCoSupplychainAnalysisstory/Finalprojectstory"><img src="images/DataCo Montage.bmp?raw=true"/></a>
+<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/FinalProjectStory_16788979106880/Fluprojectstoryboard" target="blank"><img src="images/DataCo Montage.bmp?raw=true"/></a>
 
 </div>
 
