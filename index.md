@@ -7,7 +7,7 @@
 <b>[DataCo Supply Chain Analysis](https://github.com/richardpavay/DataCo-Supply-Chain-Analysis)</b>
 <div>
   Analyzing supply chain and website traffic data for better business understanding. <i>(regression, forecasting, clustering, website traffic, geospatial analysis, intractive dashboard design)</i>
-<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/DataCoSupplychainAnalysisstory/Finalprojectstory" target="blank"><img style="margin-top: 10px;" src="images/DataCo Montage.bmp?raw=true"/></a>
+<a href="https://public.tableau.com/app/profile/p.vay.rich.rd/viz/DataCoSupplychainAnalysisstory/Finalprojectstory" target="blank"><img style="margin-top: 10px;" src="images/DataCo Montage new.bmp?raw=true"/></a>
 </div>
 ---
 <b>[Instacart Basket Analysis](https://github.com/richardpavay/Instacart_Analysis)</b>
