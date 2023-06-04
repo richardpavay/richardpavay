@@ -18,7 +18,7 @@
 ### Databases & SQL
 
 <b>[ETL & ELT Architecturing](https://github.com/richardpavay/ETL_project)</b>
-<div>Engineering and setting up a local, end-to-end ETL process by extracting cryptocurrency and stock-pricing data from API-s, loading them to a staging area in the form of a MYSQL database, then transforming them, to be eventually inserted to a data warehouse in PostgreSQL with a basic snowflake schema, which can then be connected to by our BI Tool of choice. <i>(data collection from APIs, ETL architecturing, SQL in Python, database design)</i></div>
+<div>Engineering and setting up a local, end-to-end ETL process by extracting cryptocurrency and stock-pricing data from API-s, loading them to a staging area in the form of a MYSQL database, then transforming them, to be eventually inserted to a data warehouse in PostgreSQL with a basic snowflake schema, which can then be connected with our BI Tool of choice. <i>(data collection from APIs, ETL architecturing, SQL in Python, database design)</i></div>
 <a href = "https://github.com/richardpavay/ETL_project" target="blank"><img style="margin-top: 10px;" src="images/etl_logo.png?raw=true"/></a>
 
 <b>[Data Analysis with SQL](https://github.com/richardpavay/Rockbuster_SQL_project)</b>
