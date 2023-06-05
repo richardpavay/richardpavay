@@ -4,6 +4,7 @@
 
 ### Data Analysis in Python
 
+<b><a href="https://github.com/richardpavay/DataCo-Supply-Chain-Analysis" target="blank" DataCo Supply Chain Analysis</a></b>
 <b>[DataCo Supply Chain Analysis](https://github.com/richardpavay/DataCo-Supply-Chain-Analysis)</b>
 <div>
   Analyzing supply chain and website traffic data for better business understanding. <i>(regression, forecasting, clustering, website traffic, geospatial analysis, intractive dashboard design)</i>
