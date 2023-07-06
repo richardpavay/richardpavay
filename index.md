@@ -22,7 +22,7 @@
 <a href = "https://github.com/richardpavay/ETL_project" target="blank"><img style="margin-top: 10px;" src="images/etl_logo.png?raw=true"/></a>
 
 <b><a href="https://github.com/richardpavay/Rockbuster_SQL_project" target="blank">Data Analysis with SQL</a></b>
-<div>Analyzing movie rental data stored in a relational database, through queries in PostgreSQL. <i>SQL queries, subqueries, common table expressions (CTE)</i></div>
+<div>Analyzing movie rental data stored in a relational database, through queries in PostgreSQL. <i>(SQL queries, subqueries, common table expressions (CTE))</i></div>
 <a href="https://github.com/richardpavay/Rockbuster_SQL_project" target="blank"><img style="margin-top: 10px;" src="images/movies.jpg?raw=true"/></a>
 
 ---
